@@ -6,4 +6,4 @@ Provides the scripts for Percona Live 2019 - Managing Data and Operation Distrib
 
 **balancer.py** - Balances chunks based on their groups (slides ...)
 
-**chunkgenerator.py**	- Creates test chunk maps for the **balancer.py** script
+**chunkgenerator.py**	- Creates test chunk maps for the **chunkmanager.py** and **balancer.py** scripts
